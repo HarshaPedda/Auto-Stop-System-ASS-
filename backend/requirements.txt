@@ -1,0 +1,4 @@
+aiohttp==3.13.3
+pymodbus==3.6.9
+RPi.GPIO==0.7.1
+spidev==3.8

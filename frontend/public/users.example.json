@@ -1,0 +1,4 @@
+[
+  { "type": "operator", "username": "operator1", "password": "CHANGE_ME" },
+  { "type": "engineer", "username": "engineer1", "password": "CHANGE_ME" }
+]

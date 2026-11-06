@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+*.env
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+*.log
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Runtime data (generated at runtime, not source)
+inventory_profiles.csv
+mergedcode.log
+*.bak
+*.bak-*
+
+# Python venv at any depth
+modbus_tcp/
+
+# Real credentials — keep local only
+frontend/public/users.json

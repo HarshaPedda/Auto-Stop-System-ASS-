@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# Generated outputs
+*_optimized.csv
+*_cutlist.csv
+cut_labels.html
+demo_optimized*.csv
+
+# SolidWorks
+*.sldprt
+*.sldasm
+*.slddrw
+~$*.sld*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if React UI is built standalone)
+node_modules/
+package-lock.json
